@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OTOPARK OTOMAYON PROGRAMI/1.0.0": {
+        "runtime": {
+          "OTOPARK OTOMAYON PROGRAMI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OTOPARK OTOMAYON PROGRAMI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
